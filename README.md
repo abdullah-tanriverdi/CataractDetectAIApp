@@ -7,14 +7,36 @@ Bu proje, üç farklı medikal görüntü işleme sınıflandırma modelini içe
 - [MediScan AI App Video Linki](https://youtube.com/shorts/klVm8yap8hk?feature=share)
 
 ## Uygulama Görselleri
-<p align="center">
-  <img src="assets/app_screen/home_screen.jpg" alt="Ana Sayfa" width="300" />
-  <img src="assets/app_screen/cataract_screen.jpg" alt="Katarakt Sayfası" width="300" />
-  <img src="assets/app_screen/flu_screen.jpg" alt="Flu Sayfası" width="300" />
-  <img src="assets/app_screen/lung_screen.jpg" alt="Akciğer Sayfası" width="300" />
-  <img src="assets/app_screen/lung_info.jpg" alt="Akciğer Bilgi Sayfası" width="300" />
-  <img src="assets/app_screen/info_screen.jpg" alt="Bilgi Sayfası" width="300" />
-</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/cataract_screen.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/detection_screen.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/flu_screen.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/home_screen.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/info_screen.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/lung_info.jpg" width="300" style="margin: 10px;" />
+  <img src="https://github.com/abdullah-tanriverdi/MediScanAIApp/blob/master/assets/app_screen/lung_screen.jpg" width="300" style="margin: 10px;" />
+
+</div>
+
+
+
+## Class Diagram
+![Class Diagram](https://github.com/abdullah-tanriverdi/HealthScanAIApp/blob/master/documents/mediscanai_classdiagram.png)
+
+## Flowchart
+![Flowchart](https://github.com/abdullah-tanriverdi/HealthScanAIApp/blob/master/documents/mediscanai_flowchart.png)
+
+## Gantt Chart
+![Gantt Chart](https://github.com/abdullah-tanriverdi/HealthScanAIApp/blob/master/documents/mediscanai_ganttchart.png)
+
+## Sequence Diagram
+![Sequence Diagram](https://github.com/abdullah-tanriverdi/HealthScanAIApp/blob/master/documents/mediscanai_sequencediagram.png)
+
+## Use Case Diagram
+![Use Case Diagram](https://github.com/abdullah-tanriverdi/HealthScanAIApp/blob/master/documents/mediscanai_usecase.png)
+
 
 
 ## Kullanılan Teknolojiler
